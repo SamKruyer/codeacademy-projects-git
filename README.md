@@ -1,2 +1,4 @@
 # codeacademy-projects-git
-Welcome! These projects were completed as part of my coursework while completing the Data Science career path on Codeacademy.
+These projects were completed as part of my coursework while completing the Data Science career path on Codeacademy. They have been uploaded here to give a sense of the skills I gained proficiency in through the course. These projects were all completed in Python using Jupyter Notebook. Key skills utilized were data wrangling and tidying with Pandas, data visualizations using matplotlib and seaborn, and statistical analysis using a variety of statistical packages.
+
+Since the projects were assignments, they were all fairly scaffolded. If you're interested in seeing a project I've been developoing on my own, head over to my fpl-analysis repository, where I utilize Python to wrangle data from the Fantasy Premier League (FPL) API and attempt to glean some insights on how to be an elite FPL manager!
